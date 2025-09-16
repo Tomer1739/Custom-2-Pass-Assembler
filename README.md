@@ -56,6 +56,3 @@ test.as, test.am	Sample assembly files
 test.ob, test.ext, test.ent	Expected output files
 
 Each .c file contains detailed comments explaining its function.
-
-Why This Project Matters
-This project highlights your ability to work with low-level system programming, understand computer architecture, and design modular, maintainable code—all relevant to roles in system software, networking, and AI data center development.
