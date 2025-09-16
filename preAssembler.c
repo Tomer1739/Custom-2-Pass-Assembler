@@ -10,7 +10,7 @@
 #define MAX_SYMBOL 31
 
 /* 
-	Final project by Tomer Gresler 208633578
+	Final project by Tomer Gresler
 	preAssembler part(pre run over file)
 */
 
