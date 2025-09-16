@@ -28,7 +28,7 @@ struct labelList{
 };
 
 /* 
-	Final project by Tomer Gresler 208633578
+	Final project by Tomer Gresler
 	code part(first run over file)
 */
 
