@@ -13,8 +13,6 @@
 1. **Pass 1:** Builds a symbol table and computes addresses.  
 2. **Pass 2:** Generates machine code by replacing symbols with their addresses.  
 
-This project demonstrates **system-level programming, modular design, and proficiency in Unix/Linux environments**, all skills relevant to software development, networking, and low-level systems work.
-
 ---
 
 ## Key Skills Demonstrated
