@@ -30,13 +30,12 @@
 1. Open terminal in the project folder.  
 2. Compile:  
 ```bash
+# Compile the project
 make
-Run the assembler:
 
-bash
-Copy code
+# Run the assembler on an example file
 ./run1 test
-Replace test with your assembly file (test.as or test.am).
+or your test file
 
 Project Structure
 File	Purpose
