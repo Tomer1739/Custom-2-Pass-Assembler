@@ -5,7 +5,7 @@
 #include "firstPass.c"
 
 /* 
-	Final project by Tomer Gresler 208633578
+	Final project by Tomer Gresler
 */
 
 /*
