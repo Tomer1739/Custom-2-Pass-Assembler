@@ -21,9 +21,6 @@ This runs:
 gcc -g -Wall main.c -o run1 -lm -pedantic -ansi
 ```
 
-Only `main.c` is passed to gcc. The other `.c` files are pulled in with `#include` from
-inside the code (`main.c` includes `preAssembler.c` and `firstPass.c`, and those include
-the rest), so they don't need to be listed.
 
 The output is an executable called `run1`. There is a `run1` already in the repo, but it is
 a 32-bit build, so it is better to run `make` again on your own machine.
